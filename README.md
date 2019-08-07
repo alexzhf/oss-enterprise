@@ -24,3 +24,4 @@ Before you open source your project, consider the effort required to maintain it
 
 [CONTRIBUTING](templates/CONTRIBUTING.md)
 
+... more in :file_folder:
