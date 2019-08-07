@@ -20,7 +20,7 @@ Before you open source your project, consider the effort required to maintain it
 
 ## References
 
-[CODE_OF_CONDUCT](templates/CODE_OF_CONDUCT.md)
+[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 
 [CONTRIBUTING](templates/CONTRIBUTING.md)
 
