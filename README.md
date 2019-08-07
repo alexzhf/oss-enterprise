@@ -17,3 +17,7 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+
+## References
+[CODE_OF_CONDUCT.md]
+[CONTRIBUTING.md]
